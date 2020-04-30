@@ -1,0 +1,11 @@
+{% extends "blog/base.html" %}
+{% block content %}
+    <center>
+        <h1>Type nickname you want to find</h1>
+        <form method="POST" action=".">
+            {% csrf_token %}
+            <input type="text" name="textfield">
+            <button type="submit">Upload text</button>
+        </form>
+    </center>
+{% endblock content %}

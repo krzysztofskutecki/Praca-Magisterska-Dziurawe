@@ -1,0 +1,12 @@
+{% extends "blog/base.html" %}
+{% block content %}
+    <center> Ooops... <br>
+        Look's like page is unsafe :( <br>
+        Wanna find some bugs? <br>
+        <form action='.' method='GET'>
+            <input type='text' name='id' placeholder='Type here'/>
+            <input type='submit' value='Go'/>
+        </form>
+        You looked for {{ id }}
+    </center>
+{% endblock content %}

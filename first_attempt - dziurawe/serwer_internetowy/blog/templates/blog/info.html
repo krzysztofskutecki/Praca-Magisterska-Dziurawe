@@ -1,0 +1,9 @@
+{% extends "blog/base.html" %}
+{% block content %}
+    {% csrf_token %}
+    <center>CSRF token is set of <br> You don't want to click this button!
+        <form action='/logout/' method='POST'>
+            <input type='submit' name='_method' value='Mystery button'/>
+        </form>
+    </center>
+{% endblock content %}

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bcb13a1-7669-423f-a25b-c670444b65cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/serwer_internetowy/Logi.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serwer_internetowy/blog/templates/blog/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serwer_internetowy/blog/templates/blog/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serwer_internetowy/media/profile_pics/abc.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serwer_internetowy/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/serwer_internetowy/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serwer_internetowy/blog/templates/blog/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/serwer_internetowy/blog/templates/blog/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serwer_internetowy/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/serwer_internetowy/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serwer_internetowy/blog/templates/blog/user_posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/serwer_internetowy/blog/templates/blog/user_posts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serwer_internetowy/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/serwer_internetowy/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serwer_internetowy/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/serwer_internetowy/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serwer_internetowy/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/serwer_internetowy/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serwer_internetowy/media/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/serwer_internetowy/media/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serwer_internetowy/media/profile_pics/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/serwer_internetowy/media/profile_pics/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serwer_internetowy/serwer_internetowy/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/serwer_internetowy/serwer_internetowy/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serwer_internetowy/serwer_internetowy/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/serwer_internetowy/serwer_internetowy/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serwer_internetowy/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/serwer_internetowy/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/conf/global_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/conf/global_settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="HTML4 File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UYdE3OI9bdcpt6sogqmeumJqaB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Krzysiek\PycharmProjects\first_attempt\serwer_internetowy\blog\templates\blog" />
+      <recent name="C:\Users\Krzysiek\PycharmProjects\first_attempt\serwer_internetowy\users\templates\users" />
+      <recent name="C:\Users\Krzysiek\PycharmProjects\first_attempt" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bcb13a1-7669-423f-a25b-c670444b65cc" name="Default Changelist" comment="" />
+      <created>1575537347568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575537347568</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="80" y="184" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583412942936">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="80" y="184" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.826@0.0.1536.826" timestamp="1583412942936" />
+    <state x="277" y="44" key="SettingsEditor" timestamp="1586864044460">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="277" y="44" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1586864044460" />
+    <state x="431" y="147" width="672" height="678" key="search.everywhere.popup" timestamp="1586864031536">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="431" y="147" width="672" height="678" key="search.everywhere.popup/0.0.1536.826@0.0.1536.826" timestamp="1586864031536" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/serwer_internetowy/blog/views.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/serwer_internetowy/manage.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
